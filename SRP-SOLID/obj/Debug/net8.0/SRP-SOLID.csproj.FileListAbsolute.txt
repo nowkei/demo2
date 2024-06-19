@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SRP-SOLID\bin\Debug\net8.0\SRP-SOLID.exe
+C:\Users\Admin\source\repos\SRP-SOLID\bin\Debug\net8.0\SRP-SOLID.deps.json
+C:\Users\Admin\source\repos\SRP-SOLID\bin\Debug\net8.0\SRP-SOLID.runtimeconfig.json
+C:\Users\Admin\source\repos\SRP-SOLID\bin\Debug\net8.0\SRP-SOLID.dll
+C:\Users\Admin\source\repos\SRP-SOLID\bin\Debug\net8.0\SRP-SOLID.pdb
+C:\Users\Admin\source\repos\SRP-SOLID\obj\Debug\net8.0\SRP-SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SRP-SOLID\obj\Debug\net8.0\SRP-SOLID.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SRP-SOLID\obj\Debug\net8.0\SRP-SOLID.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SRP-SOLID\obj\Debug\net8.0\SRP-SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SRP-SOLID\obj\Debug\net8.0\SRP-SOLID.dll
+C:\Users\Admin\source\repos\SRP-SOLID\obj\Debug\net8.0\refint\SRP-SOLID.dll
+C:\Users\Admin\source\repos\SRP-SOLID\obj\Debug\net8.0\SRP-SOLID.pdb
+C:\Users\Admin\source\repos\SRP-SOLID\obj\Debug\net8.0\SRP-SOLID.genruntimeconfig.cache
+C:\Users\Admin\source\repos\SRP-SOLID\obj\Debug\net8.0\ref\SRP-SOLID.dll
